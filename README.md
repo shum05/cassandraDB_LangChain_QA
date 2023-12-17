@@ -2,10 +2,10 @@
 ![image](https://github.com/shum05/cassandraDB_LangChain_QA/assets/136538114/84c98e18-cdba-426b-b2e5-8593fc6b3238)
 ## NLP-Powered Inquiry into PDF Documents with LangChain<br>
 ### Project Description <br>
-       This innovative project showcases the power of AstraDB, LangChain, and Vector Search in transforming traditional PDF documents into dynamic sources of information. Seamlessly integrated, our solution allows users to pose questions, receiving accurate and contextually relevant answers drawn from PDF content. Experience the synergy of AstraDB's serverless Cassandra with Vector Search, coupled with LangChain's natural language processing capabilities, as we redefine the way you interact with textual data. Unleash the potential of smart document interrogation through this question-answering journey.
+This innovative project showcases the power of AstraDB, LangChain, and Vector Search in transforming traditional PDF documents into dynamic sources of information. Seamlessly integrated, our solution allows users to pose questions, receiving accurate and contextually relevant answers drawn from PDF content. Experience the synergy of AstraDB's serverless Cassandra with Vector Search, coupled with LangChain's natural language processing capabilities, as we redefine the way you interact with textual data. Unleash the potential of smart document interrogation through this question-answering journey.
        
 ### Project Objectives<br>
-    Transforming PDF documents into dynamic sources of information addresses several needs and challenges associated with static document formats. Here are some key reasons why there might be a need for this transformation:
+Transforming PDF documents into dynamic sources of information addresses several needs and challenges associated with static document formats. Here are some key reasons why there might be a need for this transformation:
 1.	Accessibility and Interactivity:<br>
 •	PDF documents are traditionally static and lack interactivity. Transforming them into dynamic sources allows users to interact with the content, pose questions, and retrieve specific information.
 2.	Efficient Data Retrieval:<br>
