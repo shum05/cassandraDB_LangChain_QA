@@ -1,6 +1,6 @@
 # cassandraDB_LangChain_QA
 ![image](https://github.com/shum05/cassandraDB_LangChain_QA/assets/136538114/84c98e18-cdba-426b-b2e5-8593fc6b3238)
-# Requirements and Pre-requisites:
+## Requirements and Pre-requisites:
 A. Serverless Cassandra with Vector Search_** database on [Astra DB](https://astra.datastax.com) <br>
 	* Token with role _Database Administrator <br>
 	* Database ID<br>
@@ -22,4 +22,37 @@ LangChain integrates with OpenAI, allowing access to powerful language models fo
 
 3. Vector Search for Semantic Understanding:
 Vector Search enables semantic understanding by representing documents as vectors in a high-dimensional space. This can enhance the retrieval of relevant information based on semantic similarities, making it useful for NLP tasks like question-answering and document retrieval.
+
+NLP-Powered Inquiry into PDF Documents with LangChain
+Project Description
+       This innovative project showcases the power of AstraDB, LangChain, and Vector Search in transforming traditional PDF documents into dynamic sources of information. Seamlessly integrated, our solution allows users to pose questions, receiving accurate and contextually relevant answers drawn from PDF content. Experience the synergy of AstraDB's serverless Cassandra with Vector Search, coupled with LangChain's natural language processing capabilities, as we redefine the way you interact with textual data. Unleash the potential of smart document interrogation through this question-answering journey.
+Strategies:
+1.	Initiation:
+•	Identify the need for transforming PDF documents into dynamic sources of information.
+•	Recognize the potential of AstraDB, LangChain, and Vector Search in addressing the need.
+2.	Research and Planning:
+•	Investigate the features and capabilities of AstraDB, LangChain, and Vector Search.
+•	Plan the integration of AstraDB's serverless Cassandra with Vector Search and LangChain's natural language processing.
+3.	Integration Setup:
+•	Set up AstraDB, ensuring seamless integration with Vector Search.
+•	Integrate LangChain's natural language processing capabilities into the solution.
+4.	PDF Document Ingestion:
+•	Develop a mechanism for ingesting traditional PDF documents into the system.
+5.	Vector Search Implementation:
+•	Implement Vector Search to enable efficient and contextually relevant content retrieval from PDF documents.
+6.	Natural Language Processing Integration:
+•	Integrate LangChain's natural language processing capabilities to facilitate question-answering functionality.
+7.	User Interaction:
+•	Enable users to interact with the system, posing questions about the PDF content.
+8.	Answer Generation:
+•	Utilize the integrated technologies to generate accurate and contextually relevant answers to user questions.
+9.	Testing:
+•	Conduct thorough testing to ensure the accuracy and reliability of the question-answering system.
+10.	Documentation:
+•	Create comprehensive documentation outlining the functionalities, technologies used, and how to interact with the system.
+Requirements and Pre-requisites:
+A. Serverless Cassandra with Vector Search_** database on [Astra DB](https://astra.datastax.com)
+	* Token with role _Database Administrator
+	* Database ID
+B. OpenAI API Key
 
