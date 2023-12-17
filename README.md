@@ -1,10 +1,10 @@
 # cassandraDB_LangChain_QA
 ![image](https://github.com/shum05/cassandraDB_LangChain_QA/assets/136538114/84c98e18-cdba-426b-b2e5-8593fc6b3238)
 # Requirements and Pre-requisites:
-A. Serverless Cassandra with Vector Search_** database on [Astra DB](https://astra.datastax.com)
-	* Token with role _Database Administrator
-	* Database ID
-B. OpenAI API Key
+A. Serverless Cassandra with Vector Search_** database on [Astra DB](https://astra.datastax.com)\n
+	* Token with role _Database Administrator\n
+	* Database ID\n
+B. OpenAI API Key\n
 
 Why AstraDB, LangChain, and Vector Search for transforming traditional PDF documents into dynamic sources of information in an NLP project 
 
