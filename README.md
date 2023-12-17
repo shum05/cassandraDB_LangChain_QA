@@ -1,6 +1,10 @@
 # cassandraDB_LangChain_QA
 ![image](https://github.com/shum05/cassandraDB_LangChain_QA/assets/136538114/84c98e18-cdba-426b-b2e5-8593fc6b3238)
-## Requirements and Pre-requisites:
+### NLP-Powered Inquiry into PDF Documents with LangChain<br>
+Project Description<br>
+       This innovative project showcases the power of AstraDB, LangChain, and Vector Search in transforming traditional PDF documents into dynamic sources of information. Seamlessly integrated, our solution allows users to pose questions, receiving accurate and contextually relevant answers drawn from PDF content. Experience the synergy of AstraDB's serverless Cassandra with Vector Search, coupled with LangChain's natural language processing capabilities, as we redefine the way you interact with textual data. Unleash the potential of smart document interrogation through this question-answering journey.
+       
+### Requirements and Pre-requisites:
 A. Serverless Cassandra with Vector Search_** database on [Astra DB](https://astra.datastax.com) <br>
 	* Token with role _Database Administrator <br>
 	* Database ID<br>
@@ -23,9 +27,6 @@ LangChain integrates with OpenAI, allowing access to powerful language models fo
 3. Vector Search for Semantic Understanding:<br>
 Vector Search enables semantic understanding by representing documents as vectors in a high-dimensional space. This can enhance the retrieval of relevant information based on semantic similarities, making it useful for NLP tasks like question-answering and document retrieval.
 
-NLP-Powered Inquiry into PDF Documents with LangChain<br>
-Project Description<br>
-       This innovative project showcases the power of AstraDB, LangChain, and Vector Search in transforming traditional PDF documents into dynamic sources of information. Seamlessly integrated, our solution allows users to pose questions, receiving accurate and contextually relevant answers drawn from PDF content. Experience the synergy of AstraDB's serverless Cassandra with Vector Search, coupled with LangChain's natural language processing capabilities, as we redefine the way you interact with textual data. Unleash the potential of smart document interrogation through this question-answering journey.
 Strategies:<br>
 1.	Initiation:<br>
 •	Identify the need for transforming PDF documents into dynamic sources of information.
