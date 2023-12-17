@@ -1,9 +1,25 @@
 # cassandraDB_LangChain_QA
 ![image](https://github.com/shum05/cassandraDB_LangChain_QA/assets/136538114/84c98e18-cdba-426b-b2e5-8593fc6b3238)
 ### NLP-Powered Inquiry into PDF Documents with LangChain<br>
-Project Description<br>
+#### Project Description<br>
        This innovative project showcases the power of AstraDB, LangChain, and Vector Search in transforming traditional PDF documents into dynamic sources of information. Seamlessly integrated, our solution allows users to pose questions, receiving accurate and contextually relevant answers drawn from PDF content. Experience the synergy of AstraDB's serverless Cassandra with Vector Search, coupled with LangChain's natural language processing capabilities, as we redefine the way you interact with textual data. Unleash the potential of smart document interrogation through this question-answering journey.
-       
+#### Project Objectives<br>
+    Transforming PDF documents into dynamic sources of information addresses several needs and challenges associated with static document formats. Here are some key reasons why there might be a need for this transformation:
+1.	Accessibility and Interactivity:<br>
+•	PDF documents are traditionally static and lack interactivity. Transforming them into dynamic sources allows users to interact with the content, pose questions, and retrieve specific information.
+2.	Efficient Data Retrieval:<br>
+•	Static PDFs may require users to manually sift through large amounts of data. Dynamic transformation streamlines data retrieval by enabling smart search mechanisms and question-answering capabilities.
+3.	Enhanced Searchability:<br>
+•	PDF documents, especially lengthy ones, can be challenging to navigate. Dynamic transformation enables the implementation of advanced search functionalities, making it easier for users to find relevant information quickly.
+4.	Contextual Relevance:<br>
+•	Dynamic transformation can help extract and present information in a contextually relevant manner. 
+5.	Improved Collaboration:<br>
+•	Dynamic documents facilitate collaboration by allowing multiple users to engage with and extract information from the same document simultaneously. This can enhance teamwork and knowledge sharing within an organization.
+6.	Integration with Modern Systems:<br>
+•	Dynamic documents can be more easily integrated with modern information systems, databases, and other tools. This integration enables a seamless flow of information between different platforms.
+7.	Facilitating Decision-Making:<br>
+•	Dynamic documents empower users to make informed decisions by providing real-time, accurate, and contextual information.   
+
 ### Requirements and Pre-requisites:
 A. Serverless Cassandra with Vector Search_** database on [Astra DB](https://astra.datastax.com) <br>
 	* Token with role _Database Administrator <br>
