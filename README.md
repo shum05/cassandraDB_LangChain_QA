@@ -27,7 +27,7 @@ A. Serverless Cassandra with Vector Search_** database on [Astra DB](https://ast
 	* Database ID<br>
 B. OpenAI API Key<br>
 
-Why AstraDB, LangChain, and Vector Search for transforming traditional PDF documents into dynamic sources of information in an NLP project 
+#### Why AstraDB, LangChain, and Vector Search 
 
 The combination of AstraDB, LangChain, and Vector Search provides an integrated workflow for processing and querying PDF documents.
 
@@ -44,7 +44,7 @@ LangChain integrates with OpenAI, allowing access to powerful language models fo
 3. Vector Search for Semantic Understanding:<br>
 Vector Search enables semantic understanding by representing documents as vectors in a high-dimensional space. This can enhance the retrieval of relevant information based on semantic similarities, making it useful for NLP tasks like question-answering and document retrieval.
 
-Strategies:<br>
+#### Strategies:<br>
 1.	Initiation:<br>
 •	Identify the need for transforming PDF documents into dynamic sources of information.
 •	Recognize the potential of AstraDB, LangChain, and Vector Search in addressing the need.
